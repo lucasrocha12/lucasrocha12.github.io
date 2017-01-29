@@ -1,6 +1,10 @@
 .jumbotron {
-	background-image: url(../img/Rio1.jpg);
+	background-image: url(../img/Praia.jpg);
+	min-height: 100%;
 }
 h1{
 	color: #000000;
 }
+.navbar{
+	background-color: #deebf2;
+	margin-bottom: 0px;

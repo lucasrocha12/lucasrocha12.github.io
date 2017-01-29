@@ -2,9 +2,24 @@
 	max-width: 100%;
 }
 .card{
-	border: solid #cccccc 1px;
+	border: solid #cccccc 2px;
 	border-radius: 4px;
-	padding: 5px;
+	padding: 0px;
 	margin-bottom: 10px;
-	box-shadow: 6px 6px 5px #d3d3d3;
+}
+.navbar{
+	background-color: #deebf2
+}
+.card {
+	background-color: #deebf2;
+}
+body{
+	background-color: #10284f;
+	font-family: helvetica;
+}
+.card-block, .card-footer{
+	padding: 5px;
+}
+.card-footer {
+	background-color: #ededed;
 }
